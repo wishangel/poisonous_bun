@@ -1,7 +1,7 @@
 # coding:utf-8
 """
 ネズミ学習問題のQラーニングプログラム
-Copyright(c) 2018 Koji Makino and Hiromitsu Nishizaki All Rights Reserved.
+
 """
 import numpy as np
 import argparse
